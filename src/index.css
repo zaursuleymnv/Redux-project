@@ -11,3 +11,20 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+button.active {
+  background: green;
+}
+
+.active {
+  background-color: yellow;
+}
+
+.dark {
+  background: #252329;
+  color: #fff;
+}
+.light {
+  background: #fff;
+}
+
